@@ -1,7 +1,7 @@
 {
     "ADD": "Añadir",
-    "ADVERTISE_YIMMENU_DESC": "Anuncia ChemaModsV2 falsificando los nombres de los jugadores con variantes de 'ChemaModsV2' de distintos colores. No podrás personalizar el nombre con esta opción activada",
-    "ADVERTISE_YIMMENU": "Anunciar ChemaModsV2",
+    "ADVERTISE_CHEMAMODSV2_DESC": "Anuncia ChemaModsV2 falsificando los nombres de los jugadores con variantes de 'ChemaModsV2' de distintos colores. No podrás personalizar el nombre con esta opción activada",
+    "ADVERTISE_CHEMAMODSV2": "Anunciar ChemaModsV2",
     "ALL_PLAYERS": "Todos los jugadores",
     "ALL": "Todos",
     "AMMO": "Munición",
